@@ -57,5 +57,5 @@ Principais pontos:
 - Mudança de paradigma: frontend como ponte para IA, não apenas para telas
 - Novo papel do desenvolvedor: designer de experiências inteligentes
 
-Mensagem final: o frontend está evoluindo de uma camada de apresentação para uma camada de inteligência.
+IMPORTANTE: Se tem algo que eu quero que vocês lembrem hoje, é: quem está no frontend, está porque quer causar impacto na vida das pessoas. Compartilhem informações e deixem-nas mais acessíveis. Usem Agentes não só pela tecnologia, e sim pela acessibilidade. Bjs
 -->

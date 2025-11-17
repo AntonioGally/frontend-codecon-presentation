@@ -6,7 +6,7 @@
 
 <div class="border-l-4 border-indigo-500 pl-6">
   <div class="text-2xl font-bold text-indigo-600 mb-2">1994</div>
-  <p class="text-lg leading-relaxed">
+  <p class="text-lg leading-relaxed" style="margin: 0;">
     Enquanto o <strong>CERN</strong> criava HTML e CSS para disseminar conhecimento via hiperlinks, 
     a <strong>Netscape</strong> lança o Navigator 1.0, buscando tornar a web interativa.
   </p>
@@ -14,18 +14,17 @@
 
 <div class="border-l-4 border-yellow-500 pl-6">
   <div class="text-2xl font-bold text-yellow-600 mb-2">1995</div>
-  <p class="text-lg leading-relaxed">
+  <p class="text-lg leading-relaxed" style="margin: 0;">
     <strong>Brendan Eich</strong> cria a primeira versão do JavaScript em apenas 
-    <strong class="text-yellow-700">10 dias</strong>. A linguagem foi batizada de "JavaScript" 
-    por razões de marketing, aproveitando a popularidade do Java.
+    <strong class="text-yellow-700">10 dias</strong>
   </p>
 </div>
 
 <div class="border-l-4 border-green-500 pl-6">
   <div class="text-2xl font-bold text-green-600 mb-2">1996</div>
-  <p class="text-lg leading-relaxed">
+  <p class="text-lg leading-relaxed" style="margin: 0;">
     O <strong>Netscape Navigator 2.0</strong> é lançado com <strong>JavaScript 1.0</strong>, 
-    introduzindo o <em>Document Object Model (DOM)</em> — base fundamental da web moderna.
+    introduzindo o <em>Document Object Model (DOM)</em>
   </p>
 </div>
 
@@ -36,7 +35,16 @@
 
 <template v-slot:right>
 
-<div class="h-full w-full text-center flex flex-col items-center justify-center">
+<div class="h-full w-full text-center">
+
+<img class="w-[300px] h-[300px] rounded-full m-auto" src="../assets/brendan-eich.png"/>
+<small class="block text-xs text-gray-500 mt-8">
+    <a href="https://brendaneich.com/" target="_blank">Brendan Eich</a>
+</small>
+
+</div>
+
+<!-- <div class="h-full w-full text-center flex flex-col items-center justify-center">
 
 <div class="mb-8">
   <div class="text-6xl mb-4">⚡</div>
@@ -44,13 +52,13 @@
 </div>
 
 <div class="mt-8">
-  <p class="text-lg font-semibold mb-2">Brendan Eich</p>
+  <p class="text-lg font-semibold mb-2"></p>
   <p class="text-sm text-gray-500">
     Criador do JavaScript
   </p>
 </div>
 
-</div>
+</div> -->
 
 </template>
 

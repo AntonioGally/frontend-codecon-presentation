@@ -1,7 +1,40 @@
 <template v-slot:default>
 
-# Eu, Gally
+# Me chama!
 
+<h3 class="font-semibold text-gray-400">@AntonioGally</h3>
+
+<div class="mt-6 flex flex-wrap">
+
+<div class="w-[50%]">
+    <div class="flex items-center">
+        <span class="text-sm font-semibold text-gray-400 leading-tight">LinkedIn</span>
+    </div>
+    <img src="../assets/linkedin.png" class="w-32 h-32 mt-2"/>
+</div>
+
+<div class="w-[50%]">
+    <div class="flex items-center">
+        <span class="text-sm font-semibold text-gray-400 leading-tight">GitHub</span>
+    </div>
+    <img src="../assets/github.png" class="w-32 h-32 mt-2"/>
+</div>
+
+<div class="w-[50%] mt-4">
+    <div class="flex items-center">
+        <span class="text-sm font-semibold text-gray-400 leading-tight">Apresentação</span>
+    </div>
+    <img src="../assets/presentation.png" class="w-32 h-32 mt-2"/>
+</div>
+
+<div class="w-[50%] mt-4">
+    <div class="flex items-center">
+        <span class="text-sm font-semibold text-gray-400 leading-tight">Medium</span>
+    </div>
+    <img src="../assets/medium.png" class="w-32 h-32 mt-2"/>
+</div>
+
+</div>
 
 </template>
 

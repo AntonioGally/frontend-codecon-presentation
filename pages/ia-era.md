@@ -94,6 +94,8 @@
 </template>
 
 <!--
+GPT - 30 de novembro de 2022
+
 A era da IA representa uma mudança profunda na usabilidade. A IA não é mais um add-on ou feature adicional — 
 ela muda fundamentalmente a forma como o usuário interage com aplicações.
 

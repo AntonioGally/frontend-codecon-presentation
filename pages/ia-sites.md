@@ -7,3 +7,5 @@
 <div v-click class="w-full max-w-4xl rounded-lg" style="background-image: url('../assets/plaud-ai.png'); background-size: contain; background-position: center; background-repeat: no-repeat; min-height: 200px"></div>
 
 </div>
+
+<!-- Pitch do Looqbox!!! -->

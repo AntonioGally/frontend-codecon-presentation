@@ -68,6 +68,7 @@ layout: two-cols
 ---
 transition: slide-left
 src: ./pages/javascript.md
+layout: two-cols
 ---
 
 ---
@@ -97,6 +98,11 @@ layout: two-cols
 ---
 transition: slide-left
 src: ./pages/ia-sites.md
+---
+
+---
+transition: slide-left
+src: ./pages/book.md
 ---
 
 ---
